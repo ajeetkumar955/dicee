@@ -1,0 +1,73 @@
+body{
+  background-color: #FFC93C;
+
+}
+h1{
+  font-family: 'Oleo Script Swash Caps', cursive;
+  font-size: 5rem;
+  color: #99154E;
+  margin-bottom: 20px;
+}
+
+
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+.image1{
+  margin-right: 20px;
+  width: 200px;
+}
+
+.image2{
+  margin-left: 20px;
+  width: 200px;
+}
+
+p{
+  font-size: 2rem;
+  font-family: 'Oleo Script Swash Caps', cursive;
+  color: #810000;
+}
+
+.BUTTON_FGS {
+   -webkit-border-radius: 9px;
+   -moz-border-radius: 9px;
+   border-radius: 9px;
+   height: 2px;
+   line-height: 2px;
+   color: #FFFFFF;
+   font-family: Tahoma;
+   width: 76px;
+   font-size: 17px;
+   font-weight: 200;
+   padding: 22px;
+   background-color: #BD2000;
+   -webkit-box-shadow: 0 0 20px 0 #FFAE00;
+   -moz-box-shadow: 0 0 20px 0 #FFAE00;
+   box-shadow: 0 0 20px 0 #FFAE00;
+   text-shadow: 0 0 100px #000000;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin: 20px;
+}
+
+.BUTTON_FGS:hover {
+   background: rgba(223, 36, 27, 0.93);
+   border: solid #DD380D 0;
+   -webkit-border-radius: 9px;
+   -moz-border-radius: 9px;
+   border-radius: 9px;
+   text-decoration: none;
+}
